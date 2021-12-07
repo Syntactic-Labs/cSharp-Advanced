@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "cSharpAdvanced-Delegates", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "refAndout", "refAndout\refAndout.csproj", "{F364B886-0119-4390-9DEA-4CBE86D7A4D5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BooleanLogic", "BooleanLogic\BooleanLogic.csproj", "{D3B6966D-B75E-413A-A367-5B3CEAA207B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{F364B886-0119-4390-9DEA-4CBE86D7A4D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F364B886-0119-4390-9DEA-4CBE86D7A4D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F364B886-0119-4390-9DEA-4CBE86D7A4D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3B6966D-B75E-413A-A367-5B3CEAA207B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3B6966D-B75E-413A-A367-5B3CEAA207B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3B6966D-B75E-413A-A367-5B3CEAA207B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3B6966D-B75E-413A-A367-5B3CEAA207B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
