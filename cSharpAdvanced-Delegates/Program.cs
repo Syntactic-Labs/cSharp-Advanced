@@ -4,6 +4,7 @@ namespace cSharpAdvanced_Delegates
 {
     class Program
     {
+        //delegate example.
         public delegate int IntFn(int i, int j);
         static void Main(string[] args)
         {
